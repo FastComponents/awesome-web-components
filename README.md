@@ -15,7 +15,7 @@
 
 ## LitElement Components
 
-- 
+- [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) - The Microsoft Graph Toolkit is a collection of web components powered by the Microsoft Graph.
 
 ## Tools
 
