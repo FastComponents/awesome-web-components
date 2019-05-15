@@ -12,6 +12,7 @@
 - [\<html-include\>](https://github.com/justinfagnani/html-include-element) - Easily include external HTML into your pages.
 - [\<spacer-gif\>](https://github.com/erikkroes/spacer-gif) - The most transparent way of adding space to your web page.
 - [time-elements](https://github.com/github/time-elements) - Web component extensions to the standard \<time\> element.
+- [SAP UI5 Web Components](https://github.com/SAP/ui5-webcomponents)
 
 ## LitElement Components
 
