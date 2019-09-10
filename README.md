@@ -21,6 +21,7 @@
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) - The Microsoft Graph Toolkit is a collection of web components powered by the Microsoft Graph.
 - [Weightless](https://github.com/andreasbm/weightless) - High quality web components with a small footprint.
 - https://github.com/andreasbm/lit-translate
+- https://github.com/hamedasemi/lit-element-i18n
 - https://github.com/andreasbm/focus-trap
 
 ## Helpers
