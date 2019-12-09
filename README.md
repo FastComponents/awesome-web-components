@@ -16,6 +16,7 @@
 - [OpenLayers Web Components](https://github.com/zazuko/openlayers-elements) - Web Components for OpenLayers maps.
 - [time-elements](https://github.com/github/time-elements) - Web component extensions to the standard \<time\> element.
 - [SAP UI5 Web Components](https://github.com/SAP/ui5-webcomponents)
+- [Github Components](https://github.com/search?p=1&q=topic%3Aweb-components+org%3Agithub&type=Repositories)
 
 ## LitElement Components
 
